@@ -4,7 +4,7 @@ class Database
     private static $instace = null;
     private $conn;
     private $host = 'localhost';
-    private $db = 'contatos';
+    private $db = 'contatos_senac';
     private $user = 'root';
     private $pass = '';
 
